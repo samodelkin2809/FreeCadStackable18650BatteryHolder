@@ -1,4 +1,5 @@
-#Stackable battery holder for 18650 battery type
+# Stackable battery holder for 18650 battery type
+
 The project is to create a holder that could be easily connected with another holder of the same type. The projects features support of different lengths for the 18650 batteries (the 18650 battery with built-in protection is slightly longer than 65mm) and two types of the contact plates - the simple fixed one and the plastic spring contact plate.
 
 ## Development defails
