@@ -6,17 +6,12 @@ The project is to create a holder that could be easily connected with another ho
 
 The project was developed in [FreeCAD](https://www.freecadweb.org/), STL files were generated to be uploaded to the ThingUniverse
 [![Screenshot from FreeCAD](./view_in_freecad.png?raw=true)](#Development%20details)
-<br/>
-<br/>
-
-##
-<br/>
-<br/>
 
 
 ##Examples of usage
 
-Going to place several photos of 2S adapter I made to charge and balance pairs of 18650 batteries.
+This is the photo of 2S adapter I made to charge and balance pairs of 18650 batteries.
+[![Printed example](./view_on_table.jpg.png?raw=true)](#Examples%20of%20usage)
 
 ## License
 
