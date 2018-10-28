@@ -11,7 +11,7 @@ The project was developed in [FreeCAD](https://www.freecadweb.org/), STL files w
 ##Examples of usage
 
 This is the photo of 2S adapter I made to charge and balance pairs of 18650 batteries.
-[![Printed example](./view_on_table.jpg.png?raw=true)](#Examples%20of%20usage)
+[![Printed example](./view_on_table.jpg?raw=true)](#Examples%20of%20usage)
 
 ## License
 
