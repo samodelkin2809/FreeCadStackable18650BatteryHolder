@@ -6,8 +6,9 @@ The project is to create a holder that could be easily connected with another ho
 
 The project was developed in [FreeCAD](https://www.freecadweb.org/), STL files were generated to be uploaded to the ThingUniverse
 ![](./view_in_freecad.png?raw=true)
-<br />
-<br />
+
+<br/>
+<br/>
 
 ##Examples of usage
 
