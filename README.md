@@ -5,7 +5,7 @@ The project is to create a holder that could be easily connected with another ho
 ## Development defails
 
 The project was developed in [FreeCAD](https://www.freecadweb.org/), STL files were generated to be uploaded to the ThingUniverse
-[[https://github.com/samodelkin2809/FreeCadStackable18650BatteryHolder/view_in_freecad.png|alt=details]]
+[View of details in FreeCAD](./view_in_freecad.png)
 
 ##Examples of usage
 
