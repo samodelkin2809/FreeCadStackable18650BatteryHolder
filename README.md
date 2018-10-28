@@ -2,11 +2,10 @@
 
 The project is to create a holder that could be easily connected with another holder of the same type. The projects features support of different lengths for the 18650 batteries (the 18650 battery with built-in protection is slightly longer than 65mm) and two types of the contact plates - the simple fixed one and the plastic spring contact plate.
 
-## Development defails
+## Development details
 
 The project was developed in [FreeCAD](https://www.freecadweb.org/), STL files were generated to be uploaded to the ThingUniverse
-![](./view_in_freecad.png?raw=true)
-
+![](./view_in_freecad.png?raw=true)<br />
 
 ##Examples of usage
 
